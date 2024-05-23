@@ -1,4 +1,4 @@
-Maré alta
+Maré Alta APP
 
 Leonardo dos Santos Pessanha, Thiago Dias Gomes da Silva
 
