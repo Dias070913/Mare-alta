@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  gap: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +18,13 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+  - 'assets/images/SaoSebastiao.jpg'
+  - 'assets/images/SaoSebastiao2.jpg'
+  - 'assets/images/PraiaJuquehy.jpg'
+  - 'assets/images/PraiaCamburizinho.jpg'
+  - 'assets/images/PraiaCalhetas.jpg'
+  - 'assets/images/CachoeiraSerpente.jpg'
+  - 'assets/images/AmoraHotel.jpg'
+  - 'assets/images/HiuHotel.jpg'
+  - 'assets/images/VillaMare.jpg'
