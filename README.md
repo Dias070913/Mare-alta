@@ -10,3 +10,4 @@ Wiki - Lista de links:
   - Descrição: https://github.com/Dias070913/Mare-alta/wiki/Descrição
   - Introdução: https://github.com/Dias070913/Mare-alta/wiki/Introdução
   - Widgets e Funcionalidades: https://github.com/Dias070913/Mare-alta/wiki/Widgets-Funcionalidades
+  - Desenvolvimento do App, códigos, detalhes e vídeo do funcionamento: 
